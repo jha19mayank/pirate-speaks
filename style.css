@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(160, 154, 76);
+}
+
+.header {
+  background-color: rgb(250, 173, 173);
+  padding: 20px;
+  text-align: center;
+}
+
+textarea {
+  width: 80%;
+  height: 10vh;
+  display: block;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+#output {
+  background-color: white;
+  border: 1px solid black;
+  height: 10vh;
+  width: 80%;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+#btn-translate {
+  background-color: rgb(95, 250, 173);
+  padding: 10px;
+}
+
+.footer {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0px;
+  background-color: rgb(53, 51, 53);
+  text-align: center;
+  padding: 40px;
+  color: antiquewhite;
+}
